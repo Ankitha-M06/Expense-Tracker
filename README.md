@@ -1,2 +1,3 @@
-# Expense-Tracker
-Python project to track expenses (CLI or API)
+# Expense Tracker
+Python project to track personal expenses. Supports add, view, and delete functionality.
+
